@@ -2,12 +2,12 @@ let num=13;
 let flag=false;
 for(let i=2;i<num;i++){
     if(num%i==0){
-        flag=true
+        flag=true;
     }
 }
 if(flag){
-    console.log("No")
+    console.log("No");
 }
 else{
-    console.log("Yes")
+    console.log("Yes");
 }
