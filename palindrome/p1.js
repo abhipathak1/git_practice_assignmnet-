@@ -1,11 +1,11 @@
-let str="Abhay"
-let a=""
+let str="Abhay";
+let a="";
 for(let i=N-1;i>=0;i--){
-    a=a+str[i]
+    a=a+str[i];
 }
-if(a=str){
-  console.log("Yes")
+if(a==str){
+  console.log("Yes");
 }
 else{
-  console.log("No")
+  console.log("No");
 }
